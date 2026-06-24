@@ -76,7 +76,7 @@ public class panelKelas extends javax.swing.JPanel {
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel1.setText("Data Guru");
+        jLabel1.setText("Data Kelas");
         jLabel1.setBorder(javax.swing.BorderFactory.createEmptyBorder(1, 10, 1, 1));
         jPanel1.add(jLabel1, java.awt.BorderLayout.LINE_START);
 
